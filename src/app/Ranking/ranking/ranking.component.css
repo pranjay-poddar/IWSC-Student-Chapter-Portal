@@ -180,7 +180,7 @@ body{
    width: 90px;
    position: relative;
   }
-  .read_more:hover{
+  .read_more:hover,.read_more4:hover{
    background: rgba(0, 0, 0, 0.6);
    border: black;
    
